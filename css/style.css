@@ -211,9 +211,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	padding: 120px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,71777d+0,414a52+100 */
 	background: #ff0000; /* Old browsers */
-	background: -moz-linear-gradient(top, #ff0000, #ff0000, #ff0000, #ff0000, #ff0000); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, #ff0000, #ff0000, #ff0000, #ff0000, #ff0000); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, #ff0000, #ff0000, #ff0000, #ff0000, #ff0000); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: -moz-linear-gradient(top, #ff0000); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #ff0000); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #ff0000); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
 }
 #portfolio h2 {
@@ -345,7 +345,7 @@ ol.type li a:hover {
 #contact {
 	padding: 120px 0 60px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
-	background: #25ff00;/* Old browsers */
+	background: #ff0000;/* Old browsers */
 }
 #contact form {
 	padding: 30px 0;
